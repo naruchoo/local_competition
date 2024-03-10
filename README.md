@@ -1,4 +1,8 @@
-# "HYBRID ENERGY FORECASTING AND TRADING COMPETITION"のFORECASTINGパートのコード
+# "HYBRID ENERGY FORECASTING AND TRADING COMPETITION"のFORECASTINGパートのコード  
+![DataPort 43_0](https://github.com/naruchoo/local_competition/assets/130206918/818db57c-a684-4aa0-b9a3-3e364a936019)  
+
+
+
 [ホームページ](https://ieee-dataport.org/competitions/hybrid-energy-forecasting-and-trading-competition#files)  
 [Github](https://github.com/jbrowell/HEFTcom24)  
 
